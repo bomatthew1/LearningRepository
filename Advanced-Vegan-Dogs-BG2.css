@@ -1,0 +1,36 @@
+				body {
+				overflow-x: hidden;
+				overflow-y: auto;
+				background-image: url("https://rawgit.com/bomatthew1/LearningRepository/master/Two%20Color%2C%20No%20Gradience.png");
+				background-size: 100% 100%;
+				background-repeat: no-repeat;
+				}
+				
+				a {
+				text-decoration: none;
+				}
+
+				table {
+				border: 5px dashed green;
+				border-radius: 25px;
+				margin: auto;
+				}
+				
+				#the-content {
+				border: 5px dashed black;
+				border-radius: 25px;
+				margin: auto;
+				width: 60%;
+				}
+				
+				#body {
+				border: 5px dashed pink;
+				position: relative;
+				border-radius: 25px;
+				}
+				
+				footer {
+				border: 5px dashed yellow;
+				position: relative;
+				border-radius: 25px;
+				}
