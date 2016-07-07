@@ -18,20 +18,20 @@
 				}
 				
 				#the-content {
-				border: 2% dashed black;
+				border: 5px dashed black;
 				border-radius: 25px;
 				margin: auto;
 				width: 60%;
 				}
 				
 				#body {
-				border: 2% dashed pink;
+				border: 5px dashed pink;
 				position: relative;
 				border-radius: 25px;
 				}
 				
 				footer {
-				border: 2% dashed yellow;
+				border: 5px dashed yellow;
 				position: relative;
 				border-radius: 25px;
 				}
