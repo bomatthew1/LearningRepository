@@ -12,26 +12,26 @@
 
 				table {
 				width: 60%;	
-				border: 5px dashed green;
+				border: 2% dashed green;
 				border-radius: 25px;
 				margin: auto;
 				}
 				
 				#the-content {
-				border: 5px dashed black;
+				border: 2% dashed black;
 				border-radius: 25px;
 				margin: auto;
 				width: 60%;
 				}
 				
 				#body {
-				border: 5px dashed pink;
+				border: 2% dashed pink;
 				position: relative;
 				border-radius: 25px;
 				}
 				
 				footer {
-				border: 5px dashed yellow;
+				border: 2% dashed yellow;
 				position: relative;
 				border-radius: 25px;
 				}
