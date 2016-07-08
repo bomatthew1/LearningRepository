@@ -25,7 +25,7 @@
 				}
 				
 				#body {
-				border: 5px dashed pink;
+				border: 5px dashed transparent;
 				position: relative;
 				border-radius: 25px;
 				}
