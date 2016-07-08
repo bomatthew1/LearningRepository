@@ -18,7 +18,7 @@
 				}
 				
 				#the-content {
-				border: 5px dashed black;
+				border: 5px dashed transparent;
 				border-radius: 25px;
 				margin: auto;
 				width: 60%;
